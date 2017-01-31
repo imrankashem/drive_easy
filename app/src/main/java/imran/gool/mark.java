@@ -32,6 +32,7 @@ public class mark extends AppCompatActivity {
 
                 Intent myintend=new Intent(v.getContext(), SampleActivity.class);
                 startActivityForResult(myintend,0);
+
                 ren.start();
 
 

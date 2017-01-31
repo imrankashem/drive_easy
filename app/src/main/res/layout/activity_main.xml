@@ -112,7 +112,7 @@
         android:textSize="15dp"
 
         android:layout_above="@+id/yr"
-        android:layout_toEndOf="@+id/address"
+        android:layout_below="@+id/address"
         android:layout_marginStart="13dp" />
 
     <AutoCompleteTextView
