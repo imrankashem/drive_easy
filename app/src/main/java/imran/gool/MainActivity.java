@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity implements
     private static final String LOG_TAG = "MainActivity";
         private static final int GOOGLE_API_CLIENT_ID = 1000;
     private AutoCompleteTextView mAutocompleteTextView;
+
     private TextView mNameTextView;
     private TextView mAddressTextView;
 
